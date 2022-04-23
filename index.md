@@ -1,4 +1,4 @@
-# ![JavaEditor Logo](https://github.com/misha-network/javaeditor/blob/main/JavaEditorMiniLogo.png "JavaEditor Logo") JavaEditor
+# JavaEditor
 Code editor for Java
 
 Project make on [Lazarus]()
